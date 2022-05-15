@@ -1,5 +1,6 @@
-# Lokuri Website
+Practise responsive website
 
-> Fake cloud hosting website used in this [YouTube tutorial](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+HTML, CSS
 
-> Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app)
+Hosting on Netlify: https://quirky-williams-d1dfb0.netlify.app/
+
